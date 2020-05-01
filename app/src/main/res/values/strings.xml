@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerObj</string>
+    <string-array name="dept_names">
+        <item>IT</item>
+        <item>HR</item>
+        <item>Sales</item>
+        <item>Deployment</item>
+        <item>RF</item>
+        <item>mangment</item>
+    </string-array>
+</resources>
